@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'e-learning-diango'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D194136B5E194340B7B892F92C9D2AE7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6CB88EC46B5341E495FE08FCCC77D3A7 }}
